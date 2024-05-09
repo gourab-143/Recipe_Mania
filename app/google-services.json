@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357516878733",
+    "project_id": "recipe-mania-2ac0f",
+    "storage_bucket": "recipe-mania-2ac0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357516878733:android:1680943f28dae3937f93c4",
+        "android_client_info": {
+          "package_name": "com.example.recipe_mania"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADCoYHiuC9RHuW5V6ifYJAoZR1tOR0ock"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
